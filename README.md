@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ASwedishDeveloper"><img src="https://github.com/sweplays/sweplays/blob/master/devcard.svg" width="400" alt="Sweplays's Dev Card"/></a>
+<a href="https://app.daily.dev/ASwedishDeveloper"><img src="https://github.com/sweplays/sweplays/blob/main/devcard.svg" width="400" alt="Sweplays's Dev Card"/></a>
 
 <!--
 **sweplays/sweplays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
